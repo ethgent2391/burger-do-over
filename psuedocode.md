@@ -1,4 +1,4 @@
-1: create server.js in main folder
++1: create server.js in main folder
     A:in server.js declare dependecies
         I:express
         II:bodyParser = helps form req.body
@@ -18,9 +18,9 @@
         II: tell express to use / with routes
     G: Tell Express to listen to heroku port |or| local 3000
         I: Console log listening and port
-2: NPM INIT = creates package.json + package-lock.json + /node_modules/
++2: NPM INIT = creates package.json + package-lock.json + /node_modules/
     A: NPM Install required packages see 1:A.
-3: create .Gitignore
++3: create .Gitignore
     A: add node_modules
     B: .env
 4: Create folder structure
