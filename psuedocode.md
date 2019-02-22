@@ -30,8 +30,8 @@
     D: models
     E: Public
     F: Views
-5: Config\
-    +A:Connection.js
++5: Config\
+    A:Connection.js
         I: Instructes the server how to access the DB
             AA: usually has 3 modes: Development, Test,     Deployed
                 note: all sensitive info users/pass stored in .env
@@ -41,7 +41,7 @@
 +6: Controller\
     A: Controller.js
     B: Defines The Routes for express
-7: DB\
++7: DB\
     A: holds Schemas and Seeds
         I: Also not Neccasary with SEQUELIZE
 8: MODELS\ 
