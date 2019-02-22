@@ -1,0 +1,2 @@
+-- inserts data into table
+INSERT INTO burgers (burger_name) VALUES ("ShipWreck burger"), ("Cowboy burger"), ("Say Cheese Burger"), ("kitchen Sink burger"), ("Samurai burger"), ("blah-blah black sheep burger"), ("blue and bloody burger"), ("Angry cow burger"), ("Happy Days Burger");

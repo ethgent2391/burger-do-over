@@ -23,7 +23,7 @@
 +3: create .Gitignore
     A: add node_modules
     B: .env
-4: Create folder structure
++4: Create folder structure
     A: Config
     B:Controller/routes
     C:DB = database
@@ -31,7 +31,7 @@
     E: Public
     F: Views
 5: Config\
-    A:Connection.js
+    +A:Connection.js
         I: Instructes the server how to access the DB
             AA: usually has 3 modes: Development, Test,     Deployed
                 note: all sensitive info users/pass stored in .env
