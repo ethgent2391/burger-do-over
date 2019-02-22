@@ -1,6 +1,6 @@
 //this file exists in-between the orm and handlebars. it is the middleware (middleman) of the CRUD.
 //points to the orm.js file
-var ORM = require("../config.ORM.js");
+var ORM = require("../config/ORM.js");
 //uses express
 var EXPRESS = require("express");
 var APP = EXPRESS();
