@@ -44,7 +44,7 @@
 +7: DB\
     A: holds Schemas and Seeds
         I: Also not Neccasary with SEQUELIZE
-8: MODELS\ 
++8: MODELS\ 
     A:MODEL.js
         II: This Hold the Actual CRUD Procedures. uses ORM for Config
 9: PUBLIC\
