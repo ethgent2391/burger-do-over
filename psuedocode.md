@@ -38,7 +38,7 @@
     B: ORM
         I: orms are essentially custom middleware for all DB config CRUD
         II: NOT NEEDED IF SEQUELIZE OR SIMILAR MODULE USED
-6: Controller\
++6: Controller\
     A: Controller.js
     B: Defines The Routes for express
 7: DB\
