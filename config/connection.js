@@ -19,7 +19,7 @@ if (process.env.JAWSDB_URL) {
 connection.connect(function(err){
     if (err){
         //err.stack logs a sequence of functions run and displays them
-        console.error("womp. womp. connection failed" + err.stack);
+        console.error("Dave, connection has failed. It's not my fault: " + err.stack);
         return;
     } else {
         console.log("Dave, It seems i've connected to a DB")
